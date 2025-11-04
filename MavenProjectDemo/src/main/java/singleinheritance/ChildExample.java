@@ -1,3 +1,4 @@
+
 package singleinheritance;
 
 public class ChildExample extends ParentExample{
